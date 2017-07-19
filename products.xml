@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+  <products>
+    <product id="12345" title="Title of the item">
+      <content>The item has a title, an id and content.</content>
+      <content2><![CDATA[The item has a title, an <strong>id</strong> and content.]]></content2>
+    </product>
+  </products>
+  <pages>
+    <page id="67890" url="http://www.livewords.com/about-us">
+      <title>About Us</title>
+      <description></description>
+      <meta-info>
+        <keywords>software, translation, cloud</keywords>
+        <meta-description>
+          We are an Amsterdam-based software company devoted to
+          getting the pain out of the traditional localization process.
+        </meta-description>
+      </meta-info>
+    </page>
+  </pages>
+</channel>
